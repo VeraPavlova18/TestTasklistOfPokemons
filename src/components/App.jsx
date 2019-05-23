@@ -3,7 +3,6 @@ import { observer } from 'mobx-react-lite'
 import SearchAppBar from './SearchAppBar';
 import ImgMediaCard from './MediaCard';
 import CheckboxLabels from './CheckboxLabels';
-
 import Grid from '@material-ui/core/Grid';
 import Pagination from './Pagination';
 import Store from '../store'; 
